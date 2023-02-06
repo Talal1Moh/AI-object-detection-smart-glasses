@@ -13,5 +13,5 @@ Software Requirements:-
 - OpenCV
 - TensorFlow Lite
 
-This project is made as a part of the Middle East Future Disruptors competition by Software AG.
+This project is made as a part of the Middle East Future Disruptors competition by Software AG
 
