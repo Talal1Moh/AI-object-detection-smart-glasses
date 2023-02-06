@@ -1,4 +1,4 @@
-AI-powered smart glasses to help vision impairment people connected with the raspberry pi
+AI-powered smart glasses to help vision impairment people connected with the raspberry pi with voice feedback
 
 Hardware requirements:-
 
